@@ -19,7 +19,7 @@ const data = [
 
 const Section1 = () => {
     return (
-        <div className={'w-screen h-fit bg-black-secondary mb-20 md:p-20 py-20'}>
+        <div className={'w-screen h-fit bg-black-secondary my-20 md:p-20 py-20'}>
             <div className={'flex items-center items-end justify-between w-[85%] mx-auto'}>
                 <div className={'flex flex-col gap-10 md:w-[50%]'}>
                     <AnimationOnScroll
